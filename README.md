@@ -7,15 +7,6 @@ Everything here represents what I have learned, built, struggled with, and under
 
 ---
 
-## Why this repository exists
-
-Most people consume information and forget it.  
-This repository exists so that I **convert learning into long-term understanding**.
-
-This repo is designed to be a **career-long log of compounding knowledge**.
-
----
-
 ## What you will find here
 
 This repository will contain:
