@@ -37,20 +37,23 @@ Performance testing validates **how a system behaves under load**.
 
 ## Skills Required for a Performance Tester
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Technical Skills
 - HTTP, REST, APIs  
 - Request / response analysis  
 - Correlation and parameterization  
 - Basic SQL  
 
----
-
 ### Programming & Scripting
 - Java / Scala / JavaScript basics  
 - Understanding code flow  
 - Debugging scripts  
 
----
+</td>
+<td valign="top" width="50%">
 
 ### System Knowledge
 - Client–server architecture  
@@ -58,19 +61,20 @@ Performance testing validates **how a system behaves under load**.
 - Load balancers  
 - Microservices basics  
 
----
-
-### Analytical Skills
+### Analytical & Soft Skills
+**Analytical**
 - Interpreting graphs and metrics  
 - Identifying bottlenecks  
 - Root cause analysis  
 
----
-
-### Soft Skills
-- Communication with development, infrastructure, and product teams  
+**Soft Skills**
+- Communication with dev, infra, product teams  
 - Writing clear performance reports  
 - Asking the right questions  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -83,10 +87,6 @@ Performance Engineering is a **proactive approach** to performance.
 2. Development  
 3. Testing  
 4. Production monitoring  
-
----
-
-## Performance Testing vs Performance Engineering
 
 <table>
   <tr>
@@ -114,16 +114,27 @@ Performance Engineering is a **proactive approach** to performance.
 
 ### Load Generation Tools
 
-**Open-source**
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<strong>Open-source</strong>
 - JMeter  
 - Gatling  
 - k6  
 - Locust  
 
-**Commercial**
+</td>
+<td valign="top" width="50%">
+
+<strong>Commercial</strong>
 - LoadRunner  
 - NeoLoad  
 - BlazeMeter  
+
+</td>
+</tr>
+</table>
 
 ---
 
