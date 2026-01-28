@@ -287,6 +287,7 @@ Not acceptable:
 
 ## Review Paper Workflow (Quick Overview)
 
+![Review Paper Workflow](./Summary_Flow_1.png)
 
 Save this for future reference
 
