@@ -10,8 +10,7 @@ The goal is to use AI as a **research assistant and writing aid**, not as a repl
 
 1. What Is a Review Paper?
 2. Tools Used
-3. Overall Workflow
-4. Step-by-Step Guide
+3. Step-by-Step Guide
    - Step 1: Understand Requirements & Constraints
    - Step 2: Build Background Context
    - Step 3: Finalize Paper Structure
@@ -22,9 +21,8 @@ The goal is to use AI as a **research assistant and writing aid**, not as a repl
    - Step 8: Citations & Reference Management
    - Step 9: Polishing & Humanization
    - Step 10: Final Review & Defense Preparation
-5. Ethical Use of AI
-6. Common Mistakes to Avoid
-7. Final Checklist
+4. Common Mistakes to Avoid
+5. Final Checklist
 
 ---
 
@@ -64,15 +62,7 @@ Review papers are especially suitable for:
 
 ---
 
-## 3. Overall Workflow
-
-Guidelines → Background → Outline → Paper Search → Notes → Writing → Polishing → Submission
-
-AI is used **at every stage**, but in **different modes**.
-
----
-
-## 4. Step-by-Step Guide
+## 3. Step-by-Step Guide
 
 ---
 
@@ -246,25 +236,7 @@ AI should help *discover* papers, not download full PDFs.
 
 ---
 
-## 5. Ethical Use of AI
-
-Acceptable:
-- Literature organization
-- Summarization
-- Language refinement
-- Structural guidance
-
-Not acceptable:
-- Copying paper text verbatim
-- Claiming AI-generated insights as experimental results
-- Fabricating citations
-
-**Suggested Disclosure Statement:**
-> “AI tools were used for literature organization and language refinement.”
-
----
-
-## 6. Common Mistakes to Avoid
+## 4. Common Mistakes to Avoid
 
 - Writing the full paper in one AI prompt
 - Using Deep Research mode for writing
@@ -274,7 +246,7 @@ Not acceptable:
 
 ---
 
-## 7. Final Checklist
+## 5. Final Checklist
 
 - [ ] Guidelines followed
 - [ ] Outline finalized before research
