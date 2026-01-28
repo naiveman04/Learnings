@@ -285,6 +285,11 @@ Not acceptable:
 
 ---
 
+## Review Paper Workflow (Quick Overview)
+
+
+Save this for future reference
+
 ## Conclusion
 
 When used correctly, ChatGPT and Deep Research act as **powerful research assistants**, enabling faster literature review, better organization, and clearer writing, while keeping academic integrity intact.
